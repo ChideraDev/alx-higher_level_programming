@@ -1,1 +1,1 @@
-$PYFILE = sample.py
+$PYFILE = python sample.py
