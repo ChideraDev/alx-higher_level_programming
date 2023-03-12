@@ -5,5 +5,4 @@ def replace_in_list(my_list, idx, element):
     else:
         nw_list = my_list.copy
         nw_list[idx] = element
-        return(my_list)
-        return(nw_list)
+        return nw_list
