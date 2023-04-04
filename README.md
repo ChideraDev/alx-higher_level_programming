@@ -1,1 +1,1 @@
-My python journey starts here!
+My python programming journey starts here!
